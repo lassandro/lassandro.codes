@@ -1,0 +1,10 @@
+body {
+    display: flex;
+    margin: auto;
+    justify-content: space-evenly;
+}
+
+nav {
+    display: flex;
+    flex-direction: column;
+}
